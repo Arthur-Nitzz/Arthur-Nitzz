@@ -54,3 +54,5 @@ src="https://img.shields.io/github/followers/Arthur-Nitzz?logo=github&style=for-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/arthurnitzz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+![Profile views](https://komarev.com/ghpvc/?username=Kevin-Aaaquil&color=blueviolet)
